@@ -63,7 +63,7 @@
     </div>
     <div class="col-md-4">
         <div class="panel panel-primary">
-            <div class="panel-heading"><h4>Informações do endereço de destino</h4></div>
+            <div class="panel-heading"><h4>Informações da entrega.</h4></div>
             <div class="panel-body">
 
 <?php
